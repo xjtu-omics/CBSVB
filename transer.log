@@ -1,3 +1,0 @@
-2025-05-09 10:19:07,213 [INFO   ]  **************************** transer ****************************
-2025-05-09 10:19:07,213 [INFO   ]  CMD: transer.py -o ./result -b /mnt/h/VISOR_data/chr1_2/laser.1.out/sim.srt.bam -seq_type hifi
-2025-05-09 10:19:07,213 [INFO   ]  WORKDIR DIR: /home/qiqi/CBSVB/result
